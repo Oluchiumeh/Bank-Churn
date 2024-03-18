@@ -1,4 +1,5 @@
 # Bank-Churners-Analysis
+![Bank-Churner-Dashboard](https://github.com/Oluchiumeh/Bank-Churn/blob/main/Bank%20churn%20analysis%20dashboard.png)
 ## Overview
 This project presents an analysis of customer churn in a bank using SQL for data manipulation and Power BI for visualization. The objective is to understand the factors contributing to customer churn and develop strategies to improve customer retention. By leveraging SQL and Power BI, this analysis aims to provide actionable insights for the bank to reduce churn rates and increase customer satisfaction.
 
